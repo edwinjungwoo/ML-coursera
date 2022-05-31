@@ -1,0 +1,13 @@
+1. Open Git Bash
+
+2. git init
+
+3. git add .
+
+4. git commit -m "*"
+
+5. git status
+
+6. git pull origin main
+
+7. git push origin main
